@@ -1,0 +1,6 @@
+big_arm = 162
+ref_arm = 28
+
+incident = 1235
+transmitted = 180-big_arm => 18
+reflected = 90-ref_arm+transmitted => 80
